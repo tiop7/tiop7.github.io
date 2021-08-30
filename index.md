@@ -15,14 +15,6 @@ I’m M.S. student in the Department of Computer Science and Engineering at Seou
 
  - 
 
-### Contact
+# Contact
  - E-mail : tiop7@snu.ac.kr
  - Address : 5F, Building 301, 1 Gwanak-ro, Gwanak-gu, Seoul 08826
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
